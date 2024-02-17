@@ -1,5 +1,9 @@
-# Rock_Paper_Sccissor 2.0
 
-Now in this you can play this game until you won
+# Rock-Paper-Scissors Game
 
-this is done with the help of If-Else
+This Java program implements the classic Rock-Paper-Scissors game where the user plays against the computer.
+
+## Description
+
+The `rock_paper_scissor.java` program allows the user to play Rock-Paper-Scissors against the computer. The user is prompted to input their choice (0 for Rock, 1 for Paper, 2 for Scissors), and the computer generates its choice randomly. The program then determines the winner based on the game rules and displays the result.
+
